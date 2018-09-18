@@ -1,4 +1,4 @@
-storage_account_name = "acisazenothedude"
+storage_account_name = "terraformstatezeno"
 
 container_name = "terraform-state"
 
