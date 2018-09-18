@@ -1,5 +1,5 @@
 storage_account_name = "acisazenothedude"
 
-container_name = "aci-agent"
+container_name = "terraform-state"
 
 key = "demo-java.terraform.tfstate"
