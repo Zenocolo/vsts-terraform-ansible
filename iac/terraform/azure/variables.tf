@@ -1,5 +1,5 @@
 variable "storage-account-name" {
-  default = "acisazenothedude"
+  default = "dudezenobuildterraform"
 }
 
 variable "container-name" {
